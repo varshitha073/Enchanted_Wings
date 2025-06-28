@@ -6,7 +6,7 @@
 **Team Members:**
 
 - Swathi Ponnaganti
-- Sunkara Naga Venkata Kanaka Sri Varshitha
+- #Sunkara Naga Venkata Kanaka Sri Varshitha
 - T Vinay
 
 ## 📌 Project Overview
